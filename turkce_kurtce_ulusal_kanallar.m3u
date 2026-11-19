@@ -1,0 +1,37 @@
+#EXTM3U
+
+# --- TURKCE ULUSAL ---
+#EXTINF:-1 group-title="Turkce Ulusal",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Turkce Ulusal",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Turkce Ulusal",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 group-title="Turkce Ulusal",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 group-title="Turkce Ulusal",Star TV
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:-1 group-title="Turkce Ulusal",ATV
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 group-title="Turkce Ulusal",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 group-title="Turkce Haber",NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:-1 group-title="Turkce Haber",CNN Turk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 group-title="Turkce Haber",Halk TV
+https://halktv-live.ercdn.net/halktv/halktv.m3u8
+
+# --- KURDCE ---
+#EXTINF:-1 group-title="Kurdce",TRT Kurdi
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Kurdce",Rudaw
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+#EXTINF:-1 group-title="Kurdce",Kurdistan 24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 group-title="Kurdce",Ronahi TV
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+#EXTINF:-1 group-title="Kurdce",Waar TV
+https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
+#EXTINF:-1 group-title="Kurdce",Kurdsat News
+https://kurdsat-news.akamaized.net/hls/stream_0.m3u8
